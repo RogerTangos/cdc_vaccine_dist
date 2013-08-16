@@ -1,0 +1,278 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" alignment="1" groupAlignment="1" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jSeparator1" pref="573" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="jSeparator2" alignment="1" pref="573" max="32767" attributes="0"/>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="refreshjButton" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace pref="502" max="32767" attributes="0"/>
+                              </Group>
+                              <Component id="jScrollPane1" alignment="1" pref="573" max="32767" attributes="1"/>
+                              <Component id="jLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="diseasejLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="percentInventoryjLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="namejLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="124" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="unitPricejLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="unitCDCjLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="unitPHDjLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="UnitProviderjLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <Component id="lifespanjLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="93" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="costjLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="numInStockjLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="numOrderedjLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="backjButton" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace pref="151" max="32767" attributes="0"/>
+                                  <Component id="providerjComboBox" min="-2" pref="158" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="101" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="refreshjButton" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jSeparator1" min="-2" pref="10" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="unitPricejLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="numOrderedjLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="namejLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="diseasejLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="unitCDCjLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="numInStockjLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lifespanjLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="unitPHDjLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="UnitProviderjLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="costjLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="percentInventoryjLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jSeparator2" min="-2" pref="7" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="backjButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="providerjComboBox" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="177" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="backjButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;&lt;Back"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="backjButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JSeparator" name="jSeparator1">
+    </Component>
+    <Component class="javax.swing.JButton" name="refreshjButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Refresh"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="refreshjButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="managejTable">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="3" rowCount="4">
+                <Column editable="false" title="Vaccine Name" type="java.lang.Object"/>
+                <Column editable="false" title="Disease" type="java.lang.Object"/>
+                <Column editable="false" title="Lifespan" type="java.lang.Object"/>
+              </Table>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="managejTableMouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Select a Vaccine:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="namejLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Vaccine Name:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="unitPricejLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Unit Price (total):"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="unitPHDjLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Unit Price (PHD):"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="unitCDCjLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="UnitPrice (CDC):"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="UnitProviderjLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Unit Price (Provider):"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="diseasejLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Associated Disease:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lifespanjLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Vaccine Lifespan (days):"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="numOrderedjLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Total # Ordered:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="numInStockjLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Total in Inventory:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="costjLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Total Cost to Provider:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="percentInventoryjLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="% Inventory of Vaccine:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSeparator" name="jSeparator2">
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="View Provider Intelligence &gt;&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="providerjComboBox">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="4">
+            <StringItem index="0" value="Item 1"/>
+            <StringItem index="1" value="Item 2"/>
+            <StringItem index="2" value="Item 3"/>
+            <StringItem index="3" value="Item 4"/>
+          </StringArray>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Statistics Across All Providers:"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
